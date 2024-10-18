@@ -1,0 +1,78 @@
+a)
+
+6 Stakeholder im Projekt:
+
+1. Studierende (als User)
+    Betroffenheit:
+
+    Möchten ein möglichst faires und effizientes System zur als Hauptnutzer des EGD.
+    EGD wird eine faire und flexible Verteilung der Übungsgruppen gewährleisten und dadurch Frustration
+    verringern und effiziente Stundenpläne erhöhen.
+
+    Interesse:
+
+    Studierende haben ein großes Interesse an der Funktionalität und der  einfachen Bedienung des Systems
+    um Verfügbarkeiten zu berücksichtigen und unfaire Einteilungen zu vermeiden.
+
+2. Übungsleitende / Dozenten
+    Betroffenheit:
+
+    Dozenten erstellen Übungsgruppen und bestimmen Details wie Uhrzeit und max. Teilnehmeranzahl.
+    Sind auf ein einfaches System angewiesen, das den Verwaltungsaufwand verringert. Neues System
+    könnte auch dafür sorgen, dass keine "unnötigen" Gruppen entstehen, wo nur sehr wenig Leute hin-
+    gehen.
+
+    Interesse:
+    Das System soll reibungslos funktionieren und der Verwaltungsaufwand minimiert werden.
+
+3. Studierende als Entwickler
+
+    Betroffenheit:
+
+    Sind ggf. auch wie die Studierenden als Nutzer von der Funktionalität betroffen und verbringen viel
+    Zeit mit der Entwicklung des Systems.
+
+    Interesse:
+
+    Haben Interesse an Funktionalität und neben der einfachen Bedienung auch an umfassender und
+    organisierter Dokumentation in allen Projektphasen
+
+4. Universitätsverwaltung
+
+    Betroffenheit:
+
+    Bei erfolgreicher Pilotphase mit bis zu 1000 Studierenden könnte es auf die ganze Universität
+    verteilt werden.
+
+    Interesse:
+
+    Hat Interesse daran, das System über verschiedene Environments verteilen zu können, bzw. eine gute
+    API Anbindung sichezustellen um es in den eigenen Systemen für alle zu integrieren.
+
+5. Abteilung für Informatik (Department of Computer Science)
+
+    Betroffenheit:
+
+    Der Fachbereich ist für die Organisation und das Funktionieren der Übungsgruppenverteilung zuständig.
+    Eine effiziente Lösung wird die allgemeine Zufriedenheit bei Studierenden und Dozenten erhöhen.
+
+    Interesse:
+
+    Sind interessiert daran, dass das System effizient funktioniert und zufriedene Studierende zu
+    bekommen und einen guten Ruf zu erhalten.
+
+6. System Administratoren
+
+    Betroffenheit:
+
+    Müssen das System in Zukunft deployen und warten.
+
+    Interesse:
+
+    Starkes Interesse an Verwendung aktueller bzw. passender Technologien um administrativen System-
+    aufwand so klein wie möglich zu halten. Außerdem Interesse daran dass das System stabil läuft.
+
+    b)
+
+    s. iPad
+

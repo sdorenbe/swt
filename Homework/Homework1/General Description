@@ -1,0 +1,44 @@
+The Department of Computer Science at the University of Cologne is working on a new system
+to manage exercise group distribution (EGD). Right now, each lecturer handles the process
+differently, and many students feel it’s unfair. Often, students who are quick to register get
+their preferred groups, while others end up with sessions that don’t fit their schedules. This
+causes frustration, especially for those who need a particular group due to conflicts with other
+courses. In this new system, lecturers will be able to create exercise groups for their courses.
+They will set group details like session times and the number of students each group can
+handle. Students will log in to view available sessions. They can register for all courses they
+want to attend exercises for in one semester. Instead of a priority system, the Computer
+Science Department rather wants students to mark times where they are NOT available due
+to other circumstances. The system will then distribute students across groups in a fair
+manner, considering their available time slots and any schedule conflicts they may have with
+other courses. The system will try to minimize the number of students that could not be
+assigned a group. If a student could not be assigned, manual administration will be necessary.
+Notifications will let students know which groups they’ve been assigned to. In future versions
+of the system, it should also be possible to register as a group for single lectures or multiple at
+once, but that is of low priority. Initially, the number of students using the system will be below
+1000, but if it proves useful, the system might be adopted university-wide. Thus, it should also
+be able to adopt to handle thousands of students, especially during registration periods. The
+software should be easy to use for students as well as lecturers and system admins. Security will
+be a priority, with access controlled through university credentials (Shibboleth) and personal
+data protected from unauthorized access. The chair of Software & Systems Engineering wants
+to let students participate in the development of the system, both as developers as well as
+testers. Thus, the system should be developed in Java. The system should be deployed in
+winter semester 2026/27, so first test versions should be ready in beginning of winter semester
+2025/26. The overall budget available for the whole system development is 70,000 euro.
+
+Zusammenfassung:
+
+- Abteilung für Informatik möchte neues System zur Gruppenverteilung (EGD) entwickeln
+
+- Status Quo:
+    - Jeder Dozent hat anderen Prozess zur EGD, lässt Studenten teilweise unfair behandelt fühlen
+    - EGD oft nach dem Prinzip first come first serve
+    - Führt zu Frustration weil langsame Studis nicht gewünschten Platz bekommen
+    - Haben ggf. keine Zeit an den restlichen freien Terminen und geraten in Konflikt mit anderen Terminen
+
+- Neues System zur EGD
+    - Dozenten können Gruppen für Ihren Kurs erstellen
+    - Können Gruppendetails wie Tag & Uhrzeit und max. Teinehmeranzahl bestimmen
+    - Studenten können sich in System einloggen und verfügbare Kurse ansehen
+    - Studenten können sich für alle Kurse anmelden, für die sie im Semester eine Übung besuchen wollen
+    - Sollen danach alle Termine angeben, an denen sie NICHT teilnehmen können
+    - System versucht dann Studenten zu verteilen

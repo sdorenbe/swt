@@ -1,0 +1,11 @@
+a)
+
+6 Funktionale Anforderungen
+
+1. Dozenten sollen Übungen für ihre Kursen erstellen können
+2. Dozenten können Details wie Zeit und max. Teilnehmeranzahl bestimmen
+3. Studierende sollen angeben können an welchen Zeiten Sie KEINE Zeit haben
+4. Das System soll für jeden Studierenden eine oder mehrere passende Übungen finden
+5. Das System soll die Teilnehmeranzahl an Leuten die an keinem Termin können so gering wie möglich halten
+6. Es soll die Möglichkeit geben (wahrscheinlich nicht nur) bei Studierenden die keine passende Gruppe
+    gefunden haben, manuell eine Gruppe auszuwählen
