@@ -9,3 +9,38 @@ a)
 5. Das System soll die Teilnehmeranzahl an Leuten die an keinem Termin können so gering wie möglich halten
 6. Es soll die Möglichkeit geben (wahrscheinlich nicht nur) bei Studierenden die keine passende Gruppe
     gefunden haben, manuell eine Gruppe auszuwählen
+
+______________________________
+b)
+
+3 Qualitätsanforderungen
+
+1. Das System soll bei bis zu 1000 Nutzern (bzw. Verbindungen auf den Server) stabil laufen
+-> Qualitätsattribut: Zugriffszahlen
+
+2. Die Daten der Nutzer sollen vor unbefugtem Zugriff geschützt sein
+-> Qualitätsattribut: Anzahl "geklauter" Daten nach Pen-Test
+
+3. Das System soll in Java entwickelt werden
+-> Qualitätsattribut: Entwicklungssprache
+
+______________________________
+c)
+
+1 Einschränkung
+
+1. Die Kosten für das Projekt dürfen 70.000€ nicht überschreiten
+
+______________________________
+d)
+
+1 Projektanforderung
+
+1. Die Entwickler sollen aus der Gruppe der Studierenden der Uni Köln kommen
+
+______________________________
+e)
+
+1 Prozessanforderung
+
+1. Der Zugang zum System soll über die Universitätszugangsdaten (Shiboleth) erfolgen
